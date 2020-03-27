@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+#changeName {
+  background-color: #dcdcdc;
+  padding: 10px;
+  border-radius: 20px;
+  border: 0;
+}
