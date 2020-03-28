@@ -8,3 +8,11 @@
   border-radius: 20px;
   border: 0;
 }
+
+.red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
